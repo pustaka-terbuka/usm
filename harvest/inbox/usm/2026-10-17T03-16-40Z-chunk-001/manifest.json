@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "usm",
+  "source_name": "Perpustakaan Hamzah Sendut (Universiti Sains Malaysia)",
+  "source_base_url": "https://lib.usm.my/",
+  "terms_url": "https://library.usm.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "usm-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T03-16-40Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T03:16:47.773Z",
+  "finished_at": "2026-10-17T03:16:47.773Z",
+  "record_count": 0,
+  "error_count": 0,
+  "status": "partial",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/usm; contact@pustakaterbuka.org)",
+  "notes": "USM harvest completed. Total: 0 records."
+}
